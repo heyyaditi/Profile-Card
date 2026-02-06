@@ -1,5 +1,5 @@
 # Profile-Card
-It's a simple profile card about me.
+It's a simple profile card about me.My website is completely made out of HTML and CSS.
 
 Here's how the website looks:
 
